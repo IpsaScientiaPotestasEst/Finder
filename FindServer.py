@@ -22,4 +22,3 @@ def get_location():
     return jsonify(last_location)
     
 
-app.run(port=5000)
